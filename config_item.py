@@ -1,3 +1,6 @@
+
+# Data Blueprint: ConfigItem class
+
 class ConfigItem:
     def __init__(self, name, version, environment, status):
         self.name = name
