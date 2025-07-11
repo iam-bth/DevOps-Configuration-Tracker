@@ -22,5 +22,6 @@ env/
 # IDE files
 .idea/
 
+tempCodeRunnerFile.*
 # JSON or config files (if you want to keep local only)
 # config_items.json  <- OPTIONAL: uncomment this if you don’t want to push this file
