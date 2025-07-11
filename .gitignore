@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python virtual environment (if used)
+venv/
+env/
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+
+# JSON or config files (if you want to keep local only)
+# config_items.json  <- OPTIONAL: uncomment this if you don’t want to push this file
