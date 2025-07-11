@@ -80,8 +80,8 @@ python config_tracker.py
 ---
 
 ## 📚 Why This Project?
-This project was built of learning python and Software Engineer.
-It helped me understand and apply:
+This project was built as part of my journey to learn Python and Software Engineering concepts.  
+It helped me understand and apply my knowledge of the Software Development Life Cycle (SDLC) in a practical way.
 
 -✅ Python programming
 
@@ -91,7 +91,7 @@ It helped me understand and apply:
 
 -✅ Git version control workflows
 
--✅ Software Engineering Principles (SDLC, modular design)
+-✅ Software Engineering Principles (SDLC, Modular design)
 
 ---
 
