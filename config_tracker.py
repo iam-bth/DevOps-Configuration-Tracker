@@ -47,7 +47,7 @@ def add_config_item():
     
     item = ConfigItem(name, version, environment, status)
     config_items.append(item)
-    print("Confiuration item added successfully.")
+    print("Configuration item added successfully.")
     save_to_file()
 
 #function to view all configuration items    
