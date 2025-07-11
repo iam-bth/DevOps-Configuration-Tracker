@@ -62,6 +62,11 @@ python config_tracker.py
 ```
 ---
 
+## 🧾 Sample Data
+The project includes a `config_items.json` file pre-filled with sample configuration items to demonstrate functionality.
+
+---
+
 ## 🛠 Technologies Used
 - 🐍 Python 3.x
 
