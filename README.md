@@ -17,13 +17,16 @@ A command-line application built using Python and some Software Engineering Prin
 
 ## 📂 Project Structure
 
+```
 DevOps_Configuration_Tracker/
-|
-├── config_tracker.py # Main application Logic
-├── config_item.py # Configuration item class
-├── config_items.json # Data storage file
-└── README.md # Documentation of project 
+├── config_tracker.py      # Main application logic
+├── config_item.py         # Configuration item class
+├── config_items.json      # Data storage file
+├── README.md              # Project documentation
+├── SRS.md                 # Software Requirement Specification
+└── .gitignore             # Git ignored files config
 
+```
 ---
 
 ## 🧠 What I Learned from this Project
